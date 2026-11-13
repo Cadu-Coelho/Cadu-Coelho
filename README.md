@@ -4,7 +4,8 @@
 
 # Olá, eu sou o Cadu Coelho 👋
 
-Análise de requisitos, produto e automação com IA. Uso o Claude Code todos os dias, no trabalho e nos projetos pessoais, e compartilho aqui o que funciona.
+25 anos transformando ideias em realidade. CEO da KYROG, palestrante e apaixonado por automação com IA.<br>
+Uso o Claude Code todos os dias, no trabalho e nos projetos pessoais, e compartilho aqui o que funciona.
 
 </div>
 
@@ -26,4 +27,4 @@ Skills em português, nascidas de uso real:
 
 ---
 
-<sub>🇺🇸 Requirements analyst working on product and AI automation. I share Claude Code skills in Brazilian Portuguese at [Cadu-Coelho/skills](https://github.com/Cadu-Coelho/skills).</sub>
+<sub><b>In English:</b> 25 years turning ideas into reality. CEO of KYROG, speaker, and AI automation enthusiast. I share Claude Code skills in Brazilian Portuguese at <a href="https://github.com/Cadu-Coelho/skills">Cadu-Coelho/skills</a>.</sub>
