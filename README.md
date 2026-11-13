@@ -12,6 +12,8 @@ CPO da Hávira · Fundador e CEO da KYROG · Palestrante e mentor · Brasília/D
 [![Instagram](https://img.shields.io/badge/Instagram-caduc.oelho-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/caduc.oelho/)
 [![KYROG](https://img.shields.io/badge/site-kyrog.com.br-222?logo=googlechrome&logoColor=white)](https://www.kyrog.com.br)
 
+**Contato:** fale comigo pelo [LinkedIn](https://www.linkedin.com/in/caducoelho/)
+
 </div>
 
 ## Sobre
@@ -29,6 +31,35 @@ Hoje lidero produto e projetos de soluções digitais para gestão pública na H
 | Gestão de stakeholders e expectativas | Scrum, Kanban, Lean, PDCA, PMBOK | Modelagem de processos (UML, BPMN) | Machine learning aplicado ao negócio |
 | Comunicação, palestras e mentoria | Design Sprint, Matriz CSD, Design Thinking | Regras de negócio e documentação | Automação com IA, agentes e skills |
 | Empreendedorismo | Escopo, prazo, qualidade e custo | Prototipação e UX | Claude Code, Codex e Gemini |
+
+## Formação
+
+- **MBA em Agile Project Management**, PUC Minas · 2022 a 2023
+- **Tecnologia em Administração de Redes de Computadores**, Centro Universitário ICESP · 2007 a 2010
+
+## Certificações
+
+- **PSPO I**, Professional Scrum Product Owner · Scrum.org
+- **Management 3.0 Foundation**
+- **SFPC**, Scrum Foundation Professional · CertiProf
+- **RWVCTC**, Remote Work and Virtual Collaboration Professional · CertiProf
+- **DMPC**, Digital Marketing Professional · CertiProf
+- **Design Thinking** · DBServer
+- **Design Thinking e Value Proposition Design** · PUC Minas
+- Gestão de Projetos, Gestão de TI, Gestão de Pessoas e Economia · Catho
+- Prevenção à Lavagem de Dinheiro e ao Financiamento do Terrorismo · Matemática Financeira com HP12-C · Lógica de Programação
+
+**Idiomas:** português (nativo), inglês (intermediário).
+
+## Projetos
+
+### [Skills para o Claude Code](https://github.com/Cadu-Coelho/skills)
+
+Ferramentas em português que uso no trabalho real: debate entre IAs até o consenso (**mesa-redonda**), migração do Codex para o Claude Code, backup da configuração com cofre cifrado, travas de segurança para bancos de dados e auditoria de sites.
+
+```
+/plugin marketplace add Cadu-Coelho/skills
+```
 
 ## Experiência
 
@@ -90,39 +121,6 @@ Atuação contínua nos mesmos projetos de infraestrutura e geotecnologia do DNI
 | jan/2005 a jul/2006 | SYN Logística | Estagiário de TI: redes, segurança e manutenção |
 | mar/2004 a fev/2005 | Procuradoria Regional da União | Atendimento e organização do banco de dados local |
 | out/2002 a mar/2004 | Serpro | Estagiário de TI: suporte técnico e infraestrutura de redes |
-
-## Formação
-
-- **MBA em Agile Project Management**, PUC Minas · 2022 a 2023
-- **Tecnologia em Administração de Redes de Computadores**, Centro Universitário ICESP · 2007 a 2010
-
-## Certificações
-
-- **PSPO I**, Professional Scrum Product Owner · Scrum.org
-- **Management 3.0 Foundation**
-- **SFPC**, Scrum Foundation Professional · CertiProf
-- **RWVCTC**, Remote Work and Virtual Collaboration Professional · CertiProf
-- **DMPC**, Digital Marketing Professional · CertiProf
-- **Design Thinking** · DBServer
-- **Design Thinking e Value Proposition Design** · PUC Minas
-- Gestão de Projetos, Gestão de TI, Gestão de Pessoas e Economia · Catho
-- Prevenção à Lavagem de Dinheiro e ao Financiamento do Terrorismo · Matemática Financeira com HP12-C · Lógica de Programação
-
-**Idiomas:** português (nativo), inglês (intermediário).
-
-## Projetos
-
-### [Skills para o Claude Code](https://github.com/Cadu-Coelho/skills)
-
-Ferramentas em português que uso no trabalho real: debate entre IAs até o consenso (**mesa-redonda**), migração do Codex para o Claude Code, backup da configuração com cofre cifrado, travas de segurança para bancos de dados e auditoria de sites.
-
-```
-/plugin marketplace add Cadu-Coelho/skills
-```
-
-## Contato
-
-O melhor caminho é o [LinkedIn](https://www.linkedin.com/in/caducoelho/).
 
 ---
 
